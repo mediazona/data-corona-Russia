@@ -13,3 +13,6 @@ Lockdown types in regions:
 * lock — Lockdown ordered to most citizens
 * pass — Leaving home in most cases requires signing a pass
 * stop — Region borders fully closed
+* mask — Citizens must wear masks everywhere
+
+End section in lockdowns indicates removing this restriction type
